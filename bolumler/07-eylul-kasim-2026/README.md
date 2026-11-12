@@ -1,9 +1,9 @@
 # AI Days 7. bölüm: Eylül–Kasım 2026 yapay zeka gündemi
 
-**1 Eylül–11 Kasım 2026 · 63 gelişme.** 11 Kasım 2026'da LearnDataPlatform topluluğunda çevrim içi anlatıldı.
+**1 Eylül–11 Kasım 2026 · 63 gelişme.** 11 Kasım 2026'da [LearnDataPlatform](https://www.meetup.com/learndataplatform/) topluluğunda çevrim içi anlatıldı.
 Hazırlayan ve sunan: Gökberk Uzuntaş.
 
-📑 [Dokümanın tamamı (PDF)](ai-days-07-eylul-kasim-2026.pdf) · 📺 [Tam yayın: YouTube @uzuntasgokberk](https://www.youtube.com/@uzuntasgokberk)
+📑 [Dokümanın tamamı (PDF)](ai-days-07-eylul-kasim-2026.pdf) · 📺 [Tam yayın (YouTube)](https://youtu.be/vYXhWvymFHo)
 
 [![Dokümanın ilk bölümü: sayılar, 4 çıkarım, haftalık yoğunluk](onizleme.png)](ai-days-07-eylul-kasim-2026.pdf)
 
@@ -42,24 +42,24 @@ Her çıkarımın dayandığı kart numaraları dokümanda ("Kanıt" satırı).
 
 ## Yayının akışı
 
-Zamanlar YouTube'daki tam yayına göre.
+Zamana tıklayınca tam yayın o andan açılır.
 
 | Zaman | Konu |
 |---|---|
-| 00:00 | Giriş |
-| 00:48 | Eylül–Kasım: 63 gelişme |
-| 02:21 | Yeni modeller |
-| 12:06 | Ürün, program ve etkinlik |
-| 20:24 | Büyük resim: sektör, güvenlik ve politika |
-| 27:19 | Geliştirici araçları |
-| 31:31 | Kısa kısa |
-| 32:11 | Soru-cevap |
-| 32:28 | Junior geliştiriciler 2026'da ne yapmalı? |
-| 34:03 | Fiyatlar düşerken hangi işleri agent'lara devredersiniz? |
-| 34:39 | Yapay zeka çağında dil öğrenmek |
-| 39:51 | Son ayların en faydalı özellikleri: Claude Design ve GitHub Copilot Fusion |
-| 41:25 | Agent harness |
-| 42:43 | Kapanış |
+| [00:00](https://youtu.be/vYXhWvymFHo?t=0) | Giriş |
+| [00:48](https://youtu.be/vYXhWvymFHo?t=48) | Eylül–Kasım: 63 gelişme |
+| [02:21](https://youtu.be/vYXhWvymFHo?t=141) | Yeni modeller |
+| [12:06](https://youtu.be/vYXhWvymFHo?t=726) | Ürün, program ve etkinlik |
+| [20:24](https://youtu.be/vYXhWvymFHo?t=1224) | Büyük resim: sektör, güvenlik ve politika |
+| [27:19](https://youtu.be/vYXhWvymFHo?t=1639) | Geliştirici araçları |
+| [31:31](https://youtu.be/vYXhWvymFHo?t=1891) | Kısa kısa |
+| [32:11](https://youtu.be/vYXhWvymFHo?t=1931) | Soru-cevap |
+| [32:28](https://youtu.be/vYXhWvymFHo?t=1948) | Junior geliştiriciler 2026'da ne yapmalı? |
+| [34:03](https://youtu.be/vYXhWvymFHo?t=2043) | Fiyatlar düşerken hangi işleri agent'lara devredersiniz? |
+| [34:39](https://youtu.be/vYXhWvymFHo?t=2079) | Yapay zeka çağında dil öğrenmek |
+| [39:51](https://youtu.be/vYXhWvymFHo?t=2391) | Son ayların en faydalı özellikleri: Claude Design ve GitHub Copilot Fusion |
+| [41:25](https://youtu.be/vYXhWvymFHo?t=2485) | Agent harness |
+| [42:43](https://youtu.be/vYXhWvymFHo?t=2563) | Kapanış |
 
 Yayında bahsettiğim agent harness yapısının Power BI ve BI projeleri için açık kaynak hali:
 [analytics-agent-harness](https://github.com/uzuntasgokberk/analytics-agent-harness).

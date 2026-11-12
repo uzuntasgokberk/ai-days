@@ -2,7 +2,7 @@
 
 **AI Days**, yapay zeka gündemini bölüm bölüm tek bir dokümanda topladığım Türkçe bir seri: son haftalarda ne geldi,
 ne değişti, ne konuşuluyor. Her gelişme bir kart; kartlar model, ürün, program ve büyük resim başlıklarında, kaynaklarıyla.
-Bölümleri LearnDataPlatform topluluğunda çevrim içi anlatıyorum. Bu repo dokümanların kalıcı adresi.
+Bölümleri [LearnDataPlatform](https://www.meetup.com/learndataplatform/) topluluğunda çevrim içi anlatıyorum. Bu repo dokümanların kalıcı adresi.
 
 *English: AI Days is a Turkish series that collects the AI news of recent weeks into one document of cards (new
 models, products and programmes, the big picture), each with its sources. Episodes are presented online in the
@@ -14,7 +14,7 @@ LearnDataPlatform community; this repository is the permanent home of the docume
 
 | # | Dönem | Doküman | Tam yayın |
 |---|---|---|---|
-| 7 | 1 Eylül–11 Kasım 2026 · 63 gelişme | [özet](bolumler/07-eylul-kasim-2026/README.md) · [PDF](bolumler/07-eylul-kasim-2026/ai-days-07-eylul-kasim-2026.pdf) | [YouTube @uzuntasgokberk](https://www.youtube.com/@uzuntasgokberk) |
+| 7 | 1 Eylül–11 Kasım 2026 · 63 gelişme | [özet](bolumler/07-eylul-kasim-2026/README.md) · [PDF](bolumler/07-eylul-kasim-2026/ai-days-07-eylul-kasim-2026.pdf) | [YouTube](https://youtu.be/vYXhWvymFHo) |
 
 Repo 7. bölümle başladı; her yeni bölüm `bolumler/<no>-<dönem>/` altına kendi özetiyle eklenir.
 
